@@ -1,0 +1,68 @@
+ ___
+ 
+## Case Study HW#1
+
+Robinhood
+ 
+Alcaraz, Etienne
+
+____
+ 
+ 
+ ![Robinhood Logo](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xefratv6r06jgmdyywpc)
+
+
+# **Robinhood**
+
+### **Table of Contents**
+1. [Origin of the Company](#origin-of-the-company)
+2. [Business Activities and Technologies](#business-activities-and-technologies)
+3. [Landscape and Innovation](#landscape-and-innovation)
+4. [Comparing Performances and Metrics](#comparing-performances-and-metrics)
+5. [Recommendations Overview](#recommendations-overview)
+6. [Works Cited](#works-cited)
+
+## **[Origin of the Company](#origin-of-the-company)**
+
+Robinhood was founded in April of 2013 after two college roommates decided they wanted to change the way personal finance investment currently was at the time.  After graduating from Stanford, Baiju Bhatt and Vladamir Tenev decided to move to New York to begin their venture in finance.  There they established a few finance companies in investment finance by selling to hedge funds software that helped with trading.  During this time, they noticed how the large big name firms are trading stocks without little to no fee, while the public in the U.S. have to pay a fee or commission for each trade they do.  This made them want to transition over their work into creating products that allowed a more equal and available playing field to trading in the markets, so everyone could invest. They packed up their belongings and headed to California, where they would end up building their innovated company Robinhood, an app for commission free investing.  One of the first things they needed to do before officially launching the app was to acquire some capital, so that is when they began their seed round of funding. It was a difficult start for them when they had about 75 venture capital pitches denied to them.  However, they eventually had a break through with some luck as they got about $3 million from their seed round which included investors from Index, Google Ventures, and Marc Andreessen.  They would end up raising $1.7 billion in total funding from many big name investors such as Snoop Dog, Sequoia Capital, Jared Leto, and Rothenberg Ventures as stated from an interview with BusinessInsider.  
+
+## **[Business Activities and Technologies](#business-activities-and-technologies)**
+
+The goal of creating Robinhood was to let everyone have access to the financial markets, since it was just mainly the rich investing into the stock market.  People were often times discouraged to invest into stocks, because of the commission fees, so they decided to offer their customers with commission free trading.  This would lead to a large new demographic, especially when it came to younger investors, that would cause a transformation into investing.  According to an article from Nasdaq, a large portion of their demographic are from people in the age range of 28 – 41.  A majority of the customers are also buying their first stock buy as well.  The app is increasingly getting popular with millennials, and now has over than 10 million users. They are 
+
+This company utilizes Amazon Web Services (AWS or EC2) to function its online business needs.  Operating through AWS’s interface allows for a simpler and secure method for the user that includes safely storing their information and trading data for data analytics. Robinhood has a large set of many other different technologies that they implement to run their company.  Below is a snippet from the website Stackshare of other products and technologies that Robinhood uses.
+
+![Stacks](HW1/Stacks.png)                       
+
+One of the more significant and popular technologies that is being used is Python. They can use this programing language for a multitude of reasons, such as website development, mobile app developments, AI, and operating systems.  They also have numerous fintech tools that help with data and quantitative analysis; like Numpy, Pandas, PyTables, Scipy, and Cython. There are also a handful of frameworks that are written in Python that are used as well.  Django is one of these frameworks that lets them sustain websites and hastily allows development, and an example of when people use this is if there is a deadline they need to meet.  PostgreSQL is a database used predominantly to store data for most applications, and is a more advanced version of SQL with more functions.  Elasticsearch is one of the preferred data analytics engines, which lets them search and analyze large sets of data quickly as structured data.  Another largely known one is Google Analytics, which is heavily relied on by most websites for their website’s traffic and tracking information.  Also just like many developers, Robinhood uses Git and Github to work and manage on their open source projects.  Just like many schools and companies they have begun to utilize business tools like Slack for their method of communication. 
+
+## **[Landscape and Innovation](#landscape-and-innovation)**
+
+Robinhood is a large player in the robo-advising/stock-trading app domain in fintech that is leaving a creating a big name for itself, even though it has less than 10 years since it was built.  One large reason of their success is their innovation of opening and removing the barriers of stock trading.  This was a big deal, since it would then cause other companies to follow in their footsteps and announce they would end up removing their commission fees as well.  At first, before they launched Robinhood, many people were doubtful of a new zero fee stock trading app.  A month after launch they had around 100,000 on their wait list, and nine months after they had half a million added to it.  They now have surpassed over 10 million users, as of early 2020.
+
+Innovation is definitely one way they like to stand out apart from its well-known competitors, which include TD Ameritrade, Charles Schwab, E*Trade, Scottrade, and Acorns.  One way that they are doing this is by introducing their new feature Robinhood Cash Management, which currently has a waitlist for it.  This lets their users park their cash into a new brokerage account where it can earn a larger interest level as well as spend it like normal cash with a unique Robinhood debit card.  None of its competitors are doing what Robinhood is doing in terms of innovation and changing the way the how investment finance currently is.  
+
+## **[Comparing Performances and Metrics](#comparing-performances-and-metrics)**
+
+Key performance indicators (KPI) that analysts might want to take a look at the measure the success or failure of a company like Robinhood is doing would be the taking a look at the financial ratios like the total valuation of the company over time.  This is placing a value of a company through its market capitalization and assets, and accorinding to craft,Robinhood’s has only been increasing and is around $11.3 billion currently.  Another simple KPI to look for would be to see the number of users, and again the user count is increasing almost exponentially over the years from one million in 2016 to now over 10 million.  Compared to its competitors it might not be the leader of its metrics, but it is the fastest growing out of them, especially since most have been around for a few decades already. 
+
+![Valuation](HW1/Valuation.png)
+
+![Users](HW1/Users.png)
+
+## **[Recommendations Overview](#recommendations-overview)**
+
+Robinhood does great in terms of customer service and simplicity of using their interfaces.  However, one thing that could be expanded on is their desktop platform, since it is very similar to the mobile application.  They could more options to elaborate on different customizations.  Another slight inconvenience is that it is stated that their price data is a few seconds behind others, which could hopefully be fixed by implementing new technology.  As Robinhood expands, I could also see them growing their range of offerings that are currently only available to their competitors.  A few of these offerings and securities would be bonds, futures, future options, and forex.  Taking a look at that technologies popular robo-advisors utilize, like Wealthfront, make it seem that taking on other coding languages, like C++ , Javascript, and React, will help improve themselves in this service.  Improving themselves as a robo-advisory fintech company would be very beneficial especially when they will be able to add even more offerings like retirement accounts. They would be able to better handle their client’s portfolios in diversification and risk level, at the user’s preferences of a more passive or aggressive portfolio option.  Robinhood is an excellent fintech company that looks like it can only improve from here on and at a remarkable pace at that.  
+
+
+## [Works Cited](#works-cited)
+-----
+https://robinhood.com/us/en/support/articles/our-story/
+
+https://www.businessinsider.com/robinhood-app-vlad-tenev-founder-free-stock-trading-valuation-2017-7
+
+https://craft.co/robinhood
+
+https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23
+
+https://www.investopedia.com/robinhood-vs-td-ameritrade-4587956
