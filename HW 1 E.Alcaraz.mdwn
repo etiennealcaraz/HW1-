@@ -32,7 +32,7 @@ The goal of creating Robinhood was to let everyone have access to the financial 
 
 This company utilizes Amazon Web Services (AWS or EC2) to function its online business needs.  Operating through AWS’s interface allows for a simpler and secure method for the user that includes safely storing their information and trading data for data analytics. Robinhood has a large set of many other different technologies that they implement to run their company.  Below is a snippet from the website Stackshare of other products and technologies that Robinhood uses.
 
-![Stacks](HW1/Stacks.png)                       
+![Stacks](Stacks.png)                       
 
 One of the more significant and popular technologies that is being used is Python. They can use this programing language for a multitude of reasons, such as website development, mobile app developments, AI, and operating systems.  They also have numerous fintech tools that help with data and quantitative analysis; like Numpy, Pandas, PyTables, Scipy, and Cython. There are also a handful of frameworks that are written in Python that are used as well.  Django is one of these frameworks that lets them sustain websites and hastily allows development, and an example of when people use this is if there is a deadline they need to meet.  PostgreSQL is a database used predominantly to store data for most applications, and is a more advanced version of SQL with more functions.  Elasticsearch is one of the preferred data analytics engines, which lets them search and analyze large sets of data quickly as structured data.  Another largely known one is Google Analytics, which is heavily relied on by most websites for their website’s traffic and tracking information.  Also just like many developers, Robinhood uses Git and Github to work and manage on their open source projects.  Just like many schools and companies they have begun to utilize business tools like Slack for their method of communication. 
 
@@ -46,9 +46,9 @@ Innovation is definitely one way they like to stand out apart from its well-know
 
 Key performance indicators (KPI) that analysts might want to take a look at the measure the success or failure of a company like Robinhood is doing would be the taking a look at the financial ratios like the total valuation of the company over time.  This is placing a value of a company through its market capitalization and assets, and accorinding to craft,Robinhood’s has only been increasing and is around $11.3 billion currently.  Another simple KPI to look for would be to see the number of users, and again the user count is increasing almost exponentially over the years from one million in 2016 to now over 10 million.  Compared to its competitors it might not be the leader of its metrics, but it is the fastest growing out of them, especially since most have been around for a few decades already. 
 
-![Valuation](HW1/Valuation.png)
+![Valuation](Valuation.png)
 
-![Users](HW1/Users.png)
+![Users](Users.png)
 
 ## **[Recommendations Overview](#recommendations-overview)**
 
